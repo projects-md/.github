@@ -6,4 +6,4 @@ Plan projects as code and visualize them :chart_with_upwards_trend:
 
 ## Concept Art
 
-![Concept Art](./concept.png)
+![Concept Art](concept.png)
